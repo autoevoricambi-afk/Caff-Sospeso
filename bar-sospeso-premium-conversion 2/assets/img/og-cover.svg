@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="og" x1="80" y1="70" x2="1110" y2="550" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF7EF"/><stop offset="1" stop-color="#F0D3B5"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#og)"/>
+<circle cx="1040" cy="90" r="150" fill="#B5121B" fill-opacity="0.12"/>
+<text x="86" y="180" fill="#B5121B" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5">CAFFÈ SOSPESO</text>
+<text x="86" y="292" fill="#2C1717" font-family="Georgia, serif" font-size="88" font-weight="700">Shop e prenotazioni</text>
+<text x="86" y="372" fill="#7E0D14" font-family="Georgia, serif" font-size="64" font-weight="700">colazioni · dolci · gelati · stuzzicheria</text>
+<rect x="86" y="432" width="330" height="64" rx="32" fill="#B5121B"/>
+<text x="144" y="474" fill="#fff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Ordina su WhatsApp</text>
+</svg>

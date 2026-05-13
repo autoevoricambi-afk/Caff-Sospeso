@@ -1,0 +1,23 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="a" x1="120" y1="120" x2="850" y2="880" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF7EF"/><stop offset="1" stop-color="#F0D3B5"/></linearGradient></defs>
+<rect width="1000" height="1000" rx="64" fill="url(#a)"/>
+<circle cx="800" cy="170" r="120" fill="#B5121B" fill-opacity="0.12"/>
+<rect x="150" y="170" width="700" height="660" rx="50" fill="#fff" stroke="#E7C9BA"/>
+<text x="220" y="260" fill="#B5121B" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">COLAZIONI</text>
+<text x="220" y="334" fill="#2C1717" font-family="Georgia, serif" font-size="64" font-weight="700">Prenota la mattina</text>
+<rect x="220" y="396" width="560" height="92" rx="24" fill="#FFF7EF" stroke="#E7C9BA"/>
+<circle cx="282" cy="442" r="28" fill="#B5121B" fill-opacity="0.14"/>
+<text x="270" y="452" fill="#B5121B" font-family="Arial, sans-serif" font-size="22" font-weight="700">1</text>
+<text x="334" y="432" fill="#7E0D14" font-family="Arial, sans-serif" font-size="22" font-weight="700">Scegli le paste</text>
+<text x="334" y="462" fill="#775B53" font-family="Arial, sans-serif" font-size="18">Cornetti, brioche, krapfen...</text>
+<rect x="220" y="510" width="560" height="92" rx="24" fill="#FFF7EF" stroke="#E7C9BA"/>
+<circle cx="282" cy="556" r="28" fill="#B5121B" fill-opacity="0.14"/>
+<text x="270" y="566" fill="#B5121B" font-family="Arial, sans-serif" font-size="22" font-weight="700">2</text>
+<text x="334" y="546" fill="#7E0D14" font-family="Arial, sans-serif" font-size="22" font-weight="700">Indica il ritiro</text>
+<text x="334" y="576" fill="#775B53" font-family="Arial, sans-serif" font-size="18">07:00–10:00</text>
+<rect x="220" y="624" width="560" height="92" rx="24" fill="#FFF7EF" stroke="#E7C9BA"/>
+<circle cx="282" cy="670" r="28" fill="#B5121B" fill-opacity="0.14"/>
+<text x="270" y="680" fill="#B5121B" font-family="Arial, sans-serif" font-size="22" font-weight="700">3</text>
+<text x="334" y="660" fill="#7E0D14" font-family="Arial, sans-serif" font-size="22" font-weight="700">Invia su WhatsApp</text>
+<text x="334" y="690" fill="#775B53" font-family="Arial, sans-serif" font-size="18">Riepilogo già ordinato</text>
+</svg>
